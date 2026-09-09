@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+requests
+rasterio
+pyproj
+geopandas
+libpysal
+GDAL
+lingam
+tigramite
